@@ -7,3 +7,4 @@ O objetivo é que os espectadores da live consigam, por meio da compra de itens 
 ## Links importantes
 - Ligação (Nível 1): https://youtu.be/Ho2KJb3BB94
 - Programação: https://youtu.be/jFfwVSsaPXo
+- Integração com o StreamElements: https://youtu.be/YXuH53NnJfk
